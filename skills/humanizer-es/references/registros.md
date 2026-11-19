@@ -2,7 +2,9 @@
 
 ## Cómo usar los ejemplos
 
-Las siguientes revisiones ilustran decisiones; no son fórmulas que haya que repetir. Conservar un fragmento es válido cuando ya cumple el encargo.
+Consulta solo el género pertinente. Las siguientes revisiones ilustran decisiones; no son fórmulas que haya que repetir. Conservar un fragmento es válido cuando ya cumple el encargo.
+
+La consigna y una muestra del autor tienen prioridad sobre estos valores por defecto. No deduzcas edad, país o personalidad por estereotipos.
 
 ### Escolar expositivo
 
@@ -68,7 +70,13 @@ Puede conservarse si no se conoce más del fallo. Si el producto confirma que el
 
 Conserva etiquetas y acciones que existan en el producto. Evita prometer que los datos se guardaron o que un reintento tendrá éxito.
 
-Consulta solo el género pertinente. La consigna y una muestra del autor tienen prioridad sobre estos valores por defecto. No deduzcas edad, país o personalidad por estereotipos.
+### Texto con calcos del inglés
+
+Original: «Es importante notar que el comité jugó un rol clave. La propuesta fue aprobada el Martes 3 de Marzo».
+
+Revisión: «El comité fue decisivo. La propuesta se aprobó el martes 3 de marzo».
+
+Se retiran el preámbulo y el calco, se usa la pasiva refleja y se corrigen las mayúsculas. «Decisivo» conserva la importancia que el original atribuye al comité; si el material explica qué hizo, nombrar esa acción es mejor que cualquier adjetivo. No se añade el año ni el resultado de la votación.
 
 ## Ajustes por registro
 
@@ -84,4 +92,4 @@ Consulta solo el género pertinente. La consigna y una muestra del autor tienen 
 | Web o landing | Explicar oferta y siguiente acción | Funciones y promesas verificadas, voz de marca | Beneficios inventados, eslóganes intercambiables |
 | Interfaz | Decisión o recuperación que el usuario puede realizar | Etiquetas, límites y estado real del sistema | Humor fuera de lugar, garantías de seguridad o guardado no conocidas |
 
-En textos legales, médicos, financieros o de seguridad, una solicitud de estilo debe conservar su alcance técnico y normativo. La skill no debe convertir una corrección de redacción en asesoría ni añadir advertencias genéricas a cada entrega. Si una ambigüedad cambia obligaciones o acciones, se conserva o se consulta.
+Para textos legales, médicos, financieros o de seguridad, consulta «Límites del encargo» en [fidelidad y gramática](fidelidad-y-gramatica.md#límites-del-encargo).

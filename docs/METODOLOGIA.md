@@ -21,7 +21,7 @@ Los resultados en inglés o mandarín no se presentan como mediciones del españ
 
 Durante la revisión se compararon un control sin guía, la versión anterior y candidatas sucesivas. Se usaron encargos escolares, formales, casuales, académicos, técnicos y de producto. Las observaciones sirvieron para corregir pérdida de comparaciones, inferencias sobre destinatarios y cambios indebidos en la postura del autor.
 
-La versión corregida recibió una última pasada de cinco contextos nuevos, con doce encargos por contexto: **60 salidas**. Se revisaron ocho casos de regresión y cuatro adicionales sobre destinatario desconocido, una tesis en un fragmento, puntuación apilada e instrucciones técnicas. Se leyeron las salidas y se comprobaron invariantes concretos, como citas, cifras y condiciones.
+La versión 1.0 recibió una última pasada de cinco contextos nuevos, con doce encargos por contexto: **60 salidas**. Las incorporaciones de la versión 1.1 (P61–P66, señales frecuentes en el núcleo y casos H5–H8) todavía no se han evaluado con ese protocolo; ver el [registro de cambios](../CHANGELOG.md). Se revisaron ocho casos de regresión y cuatro adicionales sobre destinatario desconocido, una tesis en un fragmento, puntuación apilada e instrucciones técnicas. Se leyeron las salidas y se comprobaron invariantes concretos, como citas, cifras y condiciones.
 
 Los doce encargos de cada lote compartían contexto. Una ejecución nueva no equivale a un contexto independiente por texto. Algunos casos se solapan con ejemplos de las referencias y se consideran pruebas de regresión. La cobertura más amplia de registros se realizó en una candidata anterior; no se atribuyen todas sus salidas a la última versión.
 

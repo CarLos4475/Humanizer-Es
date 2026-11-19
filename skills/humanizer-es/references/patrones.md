@@ -2,7 +2,7 @@
 
 Lee la sección que corresponda al problema. Las etiquetas describen la base de la recomendación: ES, evidencia en español; OT, evidencia en otra lengua; ED, criterio editorial; PR, preferencia editorial del proyecto. Ninguna frase aislada demuestra autoría de IA.
 
-Índice: contrastes correctivos, punto y coma apilado y catálogo P01–P60 por aperturas, retórica, léxico, sintaxis, ritmo, formato y voz.
+Índice: contrastes correctivos, punto y coma apilado y catálogo P01–P66 por aperturas (A), retórica (B), léxico (C), sintaxis (D), ritmo (E), formato (F), voz (G) y calcos o convenciones del inglés (H).
 
 ## Familia prioritaria: contraste y corrección escenificados
 
@@ -57,7 +57,7 @@ Revisión: «La plataforma registra entregas, ofrece estadísticas y permite dej
 
 **Caso para conservar.** Una enumeración con miembros que ya contienen comas puede necesitar punto y coma para delimitar sus partes. También puede ser útil en una comparación estrecha. La preferencia del proyecto favorece otra redacción si resulta igual de clara y fiel, sin transformar la corrección en una prohibición ortográfica.
 
-## Catálogo de 60 patrones editoriales
+## Catálogo de 66 patrones editoriales
 
 Las siguientes fichas son propuestas de intervención. Las frases concretas de ejemplo son ED, salvo las preferencias PR señaladas. ES u OT indican apoyo a una familia general; no certifican cada frase como marcador de IA. La decisión se toma por función, densidad y contexto.
 
@@ -105,7 +105,7 @@ Las siguientes fichas son propuestas de intervención. Las frases concretas de e
 
 **P19. Adjetivos elogiosos acumulados.** «Robusto, eficiente, innovador, integral». Conservar atributos medibles o definidos. Si no están respaldados, retirarlos o pedir datos. No transformarlos en funciones inventadas como «carga rápido» o «protege tus datos». ES para la familia de uso de adjetivos; ED para el ejemplo.
 
-**P20. Verbo grandilocuente.** «Revoluciona», «transforma», «redefine», «potencia». Comprobar qué acción expresa y con qué alcance. «Permite compartir archivos» puede ser suficiente si esa es la función descrita. Un verbo especializado como «optimizar» puede ser exacto en su disciplina. ED.
+**P20. Verbo grandilocuente.** «Revoluciona», «transforma», «redefine», «potencia». Comprobar qué acción expresa y con qué alcance. «Permite compartir archivos» puede ser suficiente si esa es la función descrita. Lo mismo vale para «desempeña un papel fundamental» o «juega un papel clave»: nombrar qué hace el sujeto, si el material lo dice. Un verbo especializado como «optimizar» puede ser exacto en su disciplina. ED.
 
 **P21. Importancia histórica inflada.** «Marca un antes y un después», «hito sin precedentes». Distinguir énfasis prescindible de la tesis del autor. En una edición de estilo, conservar el alcance de una valoración que constituye su postura, aunque solo se reciba la introducción. Si el encargo incluye revisar la argumentación, señalar dónde hace falta sustento; no inferir que no existe por faltar en el fragmento. ED.
 
@@ -161,7 +161,7 @@ Las siguientes fichas son propuestas de intervención. Las frases concretas de e
 
 **P45. Enumeración dentro de enumeración.** Se mezclan ejemplos, razones y consecuencias en una sola lista. Separar niveles conceptuales o convertir parte en explicación. No hacer una viñeta de cada frase por el mero hecho de acortar párrafos. ED.
 
-**P46. Puntuación tratada como disfraz.** Quitar todo punto y coma, añadir comas al azar o variar signos para «sonar humano». Elegir la puntuación por sintaxis, sentido y preferencia del usuario. No utilizar la densidad de signos como objetivo de edición. ES, ED, PR.
+**P46. Puntuación tratada como disfraz.** Quitar todo punto y coma, añadir comas al azar o variar signos para «sonar humano». Elegir la puntuación por sintaxis, sentido y preferencia editorial del proyecto. No utilizar la densidad de signos como objetivo de edición. ES, ED, PR.
 
 ### F. Formato, aplicaciones y restos de plantilla
 
@@ -194,3 +194,19 @@ Las siguientes fichas son propuestas de intervención. Las frases concretas de e
 **P59. Neutralización de la variedad.** Cambiar vos por tú, computadora por ordenador o costos por costes sin motivo. Mantener el tratamiento, los usos locales y la coherencia interna. No inferir la variedad del autor solo por su ubicación o el nombre de una carpeta. ED.
 
 **P60. Corrección por obligación.** Un texto claro se reescribe únicamente para demostrar trabajo. Conservarlo o hacer cambios mínimos cuando cumple su función. La evaluación debe premiar esa decisión en controles que ya están bien escritos. ED.
+
+### H. Calcos y convenciones del inglés
+
+Muchos textos generados o traducidos desde el inglés arrastran estructuras ajenas al español. Las fichas siguientes se apoyan en criterio gramatical y editorial (ED); no hay medición propia de su frecuencia. Varios de estos usos están extendidos en algunas regiones: comprueba la variedad del autor antes de cambiarlos.
+
+**P61. Calco léxico o fraseológico.** «Jugar un rol», «hacer sentido», «es importante notar que», «en orden a», «eventualmente» con el sentido de 'finalmente', «remover» por 'quitar'. Usar el equivalente español cuando el calco oscurece el sentido o desentona con el registro: «tener una función», «tener sentido», «conviene señalar» (o nada; ver P01), «para», «al final», «quitar». Conservar usos asentados en la variedad del autor, como «aplicar a un puesto» en buena parte de América, y los términos técnicos sin equivalente claro. ED.
+
+**P62. Pasiva perifrástica por sistema.** «El informe fue revisado por el equipo», «la decisión fue tomada». El español prefiere la activa o la pasiva refleja en muchos contextos: «El equipo revisó el informe», «se tomó la decisión». Conservar la pasiva cuando el foco está en el objeto o el agente se desconoce, y no inventar un agente para activar la frase (ver P31). ED.
+
+**P63. Posesivo innecesario.** «Levantó su mano», «se lavó sus dientes», «introduzca su contraseña en su cuenta». Con partes del cuerpo, prendas y referentes evidentes, el español usa el artículo: «levantó la mano». En interfaces, un posesivo puede desambiguar; retirarlo solo si no se pierde la referencia. ED.
+
+**P64. Mayúsculas al estilo inglés.** Días, meses, estaciones, gentilicios, idiomas y cargos genéricos con mayúscula inicial: «el Lunes», «en Marzo», «los Españoles», «el Director de la escuela». En español van en minúscula salvo en principio de oración o cuando forman parte de un nombre propio o denominación oficial. Para títulos y encabezados, ver P49. ED.
+
+**P65. Convenciones tipográficas mezcladas.** Comillas inglesas y latinas en el mismo texto, «%» pegado o separado según el párrafo, decimales con punto y con coma alternados, horas como «3pm». Elegir la convención del autor, su región o la guía del encargo y aplicarla de forma constante. El separador decimal varía entre países (coma en buena parte de España y Sudamérica, punto en México y Centroamérica): no imponer uno. Nunca alterar comillas, cifras o formatos dentro de citas literales, código o datos. ED.
+
+**P66. Emojis y adornos visuales de plantilla.** Un emoji al inicio de cada encabezado o viñeta, flechas «→» como conector en prosa, separadores decorativos. Retirarlos de trabajos escolares, correos formales, textos académicos y técnicos. Conservarlos cuando forman parte de la voz de marca, de un mensaje informal del autor o de una convención del canal. ED.

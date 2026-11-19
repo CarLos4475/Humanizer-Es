@@ -16,6 +16,8 @@ Consulta esta referencia cuando una simplificación pueda alterar una afirmació
 | Causalidad | Sustituir «después» por «por eso» | Mantener secuencia y causa como relaciones diferentes |
 | Alcance | Convertir «algunos» en «todos» | Preservar cuantificadores y restricciones |
 | Terminología | Alternar tokens, credenciales y permisos como sinónimos | Mantener un término por concepto cuando la distinción importe |
+| Convenciones del autor | Cambiar 2.5 por 2,5, o comillas y tratamiento, al «corregir» | Unificar dentro del texto según la convención que ya usa; no imponer la de otra región |
+| Formato | Convertir listas en párrafos, perder enlaces o niveles de encabezado | Conservar la estructura Markdown salvo que el encargo pida cambiarla |
 
 ## Concretar sin inventar
 

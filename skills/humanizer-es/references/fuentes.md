@@ -37,7 +37,7 @@ El análisis de vocabulario excedente de Kobak y colaboradores identifica cambio
 
 Juzek y Ward aportan evidencia de que el aprendizaje con preferencias humanas puede contribuir al sobreuso léxico. No demuestra que todos los clichés tengan una sola causa. La skill debería describir lo que el editor observa y la decisión que puede tomar, sin añadir explicaciones causales especulativas sobre entrenamiento. [Word Overuse and Alignment, 2025](https://arxiv.org/abs/2508.01930).
 
-Un preprint de 2026 analiza 284 rasgos en 30 modelos y 10 dominios en inglés. Encuentra que muchas señales propuestas dependen del contexto. Es una advertencia contra umbrales rígidos y generalizaciones entre modelos; no una validación de reglas concretas para el español. [El Attar y colaboradores, versión de octubre de 2026](https://arxiv.org/abs/2606.04177).
+Un preprint de 2026 analiza 284 rasgos en 30 modelos y 10 dominios en inglés. Encuentra que muchas señales propuestas dependen del contexto. Es una advertencia contra umbrales rígidos y generalizaciones entre modelos; no una validación de reglas concretas para el español. [El Attar y colaboradores, 2026, versión 2](https://arxiv.org/abs/2606.04177).
 
 ### «No es X, es Y»: función antes que eliminación
 

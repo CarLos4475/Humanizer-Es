@@ -6,7 +6,7 @@
 
 Una skill para revisar textos en español: menos relleno, mejor ritmo y una voz adecuada para cada ocasión.
 
-**60 patrones de edición · Español primero · Escolar, profesional y técnico · Licencia MIT**
+**66 patrones de edición · Español primero · Escolar, profesional y técnico · Licencia MIT**
 
 [Instalar](#instalación) · [Antes y después](#antes-y-después) · [Cómo usarla](#cómo-usarla) · [Qué incluye](#qué-incluye)
 
@@ -23,11 +23,11 @@ Trabaja con frases, estructura, puntuación y formato. También cuida algo fáci
 | Qué aporta | En la práctica |
 |---|---|
 | **Español desde el principio** | Atiende a usos, ritmo y variedades del español. Conserva tú, usted o vos según el texto. |
-| **60 patrones con criterio** | Cada ficha explica qué revisar, cómo intervenir y cuándo conviene conservar la construcción. |
+| **66 patrones con criterio** | Cada ficha explica qué revisar, cómo intervenir y cuándo conviene conservar la construcción. |
 | **Una voz para cada contexto** | Una tarea escolar, un correo formal, un mensaje y una app reciben tratamientos distintos. |
 | **Fidelidad al contenido** | Protege cifras, citas, condiciones, términos técnicos y diferencias como «sugiere» frente a «demuestra». |
 | **Edición proporcional** | Puede limpiar unas frases, reorganizar un párrafo o dejar intacto un texto que ya funciona. |
-| **Un paquete ligero** | Un núcleo de unas 650 palabras y cinco referencias temáticas. Son instrucciones Markdown, sin servidor ni API propia. |
+| **Un paquete ligero** | Un núcleo de unas 950 palabras y cinco referencias temáticas. Son instrucciones Markdown, sin servidor ni API propia. |
 
 ## Antes y después
 
@@ -168,8 +168,10 @@ Humanizer-Espa-ol/
 ├── README.md
 ├── LICENSE
 ├── CONTRIBUTING.md
+├── CHANGELOG.md
 ├── docs/
-│   └── METODOLOGIA.md
+│   ├── METODOLOGIA.md
+│   └── EVALUACION-INVARIANTES.md
 └── skills/
     └── humanizer-es/
         ├── SKILL.md

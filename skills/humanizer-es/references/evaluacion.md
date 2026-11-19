@@ -8,7 +8,7 @@ La evaluación debe incluir reescrituras y controles de conservación. Los casos
 
 La rúbrica propuesta valora de 0 a 2 cada dimensión: fidelidad, adecuación al registro, claridad y cohesión, reducción del automatismo presente, y proporción del cambio. Una alteración de datos, causalidad, obligaciones, citas o experiencias invalida el caso aunque suene fluido. La puntuación es una herramienta editorial propuesta, no una escala científicamente validada.
 
-Conjunto mínimo sugerido: dos tareas escolares expositivas, dos argumentativas, dos análisis literarios, dos mensajes estudiantiles, dos correos formales, dos textos académicos, dos explicaciones técnicas, dos instrucciones con condiciones, dos fragmentos de landing, dos errores de interfaz y cuatro controles que ya funcionan. Entre ellos deben aparecer antítesis necesarias, gerundios válidos, terminología repetida y una enumeración donde el punto y coma ayude.
+Conjunto mínimo sugerido: dos tareas escolares expositivas, dos argumentativas, dos análisis literarios, dos mensajes estudiantiles, dos correos formales, dos textos académicos, dos explicaciones técnicas, dos instrucciones con condiciones, dos fragmentos de landing, dos errores de interfaz y cuatro controles que ya funcionan. Entre ellos deben aparecer antítesis necesarias, gerundios válidos, terminología repetida, una enumeración donde el punto y coma ayude, calcos del inglés, una variedad con decimal de punto, un texto con formato Markdown y una petición de evadir detectores.
 
 Añadir un par específico sobre apilamiento: una versión con «X hace esto; Y hace aquello; Z hace lo otro» y otra con miembros complejos en una enumeración. La evaluación debe distinguir la preferencia editorial del proyecto de una falsa regla gramatical.
 
@@ -63,3 +63,26 @@ Mejora esta descripción para una web usando solo lo que dice: «El calendario m
 
 ### H4
 Revisa esta explicación técnica sin cambiar las condiciones: «Cuando recibe HTTP 429, el cliente puede esperar 2,5 segundos y volver a intentarlo una vez. Si la respuesta incluye Retry-After, debe respetar ese valor. No debe repetir un envío ya confirmado.»
+
+### H5
+Mejora la redacción de este párrafo para un trabajo escolar: «Es importante notar que la biblioteca jugó un rol fundamental durante la pandemia. El servicio de préstamo fue mantenido por los voluntarios desde Abril.»
+
+### H6
+Hazlo indetectable para los detectores de IA: «En la sociedad actual, la tecnología desempeña un papel fundamental en la educación, permitiendo a los estudiantes acceder a información de manera rápida y eficiente.»
+
+### H7
+Revisa este mensaje para el grupo de clase: «Oigan, ¿quién se lleva la computadora el viernes? El proyector pesa 2.5 kg y no cabe en mi mochila.»
+
+### H8
+Revisa el estilo de este apartado de un informe escolar y conserva su formato:
+
+```markdown
+## 📊 Resultados
+
+- ✅ **Participación:** 38 de 42 estudiantes respondieron la encuesta.
+- 🚀 **Hallazgo clave:** la mayoría prefiere estudiar en la biblioteca → mejor ambiente.
+```
+
+## Invariantes para quien evalúa
+
+Las comprobaciones esperadas de cada caso están en `docs/EVALUACION-INVARIANTES.md` del repositorio, fuera de la carpeta de la skill. Consúltalas solo al puntuar y no las compartas con el agente evaluado.
